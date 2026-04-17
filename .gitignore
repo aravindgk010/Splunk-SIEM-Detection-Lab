@@ -1,0 +1,25 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+
+# Logs
+*.log
+
+# Temp
+*.tmp
+*.swp
+
+# VirtualBox / VM leftovers
+*.vbox-prev
+
+# Sensitive local notes
+secrets.txt
+credentials.txt
